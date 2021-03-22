@@ -54,6 +54,17 @@
 			"[+2 Food] once [Ecology] is discovered",
 		"Irremovable"],
 	},
+        {
+		"name": "Neighborhood",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert"],
+		"production": 1,
+		"culture": 1,
+		"gold": 1,
+		"science": 1,
+		"uniques": [
+			"[+1 Food] once [Ecology] is discovered",
+		"Irremovable"],
+	},
 
 		//Gold
 	
